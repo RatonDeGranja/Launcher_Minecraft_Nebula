@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7398,
             "MD5": "39c68f8be018557068512f16cf3f97fa",
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "eede38b0c090f69c7789cd35e753853d",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118913,
                 "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16854,
                 "MD5": "1193446859d078e83d9fcc4d8a39f44d",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2777708,
                 "MD5": "f202df135ad32fef7e7c42e957c142af",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4848366,
                 "MD5": "5c4d8867f3152f9c397859436a06321c",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 31872,
                 "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 267079,
                 "MD5": "9446521da84ab53aa7a81af82d4e854a",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170518,
                 "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
-                "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
+                "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4648724,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
             "MD5": "9ef0bc4940bf472feff9592f528782ea"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6325446,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/AlienEvo-1.1.2-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/AlienEvo-1.1.2-forge.jar",
             "MD5": "d2cc7d66ace0fdfb4d12e4fc1c7c85cd"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18490,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/aquatictorches-1.20.1-forge-1.1.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/aquatictorches-1.20.1-forge-1.1.1.jar",
             "MD5": "a072f9dfe099a3322dff7091034cc293"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12430237,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ars_nouveau-1.20.1-4.12.7-all.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ars_nouveau-1.20.1-4.12.7-all.jar",
             "MD5": "cdd1952cc0031831b37db0f6d6c6ceb1"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 215015,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ars_ocultas-1.20.1-1.2.2-all.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ars_ocultas-1.20.1-1.2.2-all.jar",
             "MD5": "b691274ef53e59147ba90a2b5516607f"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1049250,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/arsdelight-1.1.6.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/arsdelight-1.1.6.jar",
             "MD5": "b86eccb269091a1393490972fa39abf7"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1054548,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/azurelib-neo-1.20.1-3.1.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/azurelib-neo-1.20.1-3.1.3.jar",
             "MD5": "c500cb2d7e6791abfa9be3e5ae55b111"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31868,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/baguettelib-1.20.1-Forge-1.1.5.jar",
             "MD5": "21c32e7a3fcd7501915bf2b91d76df9b"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 591398,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.38-all.jar",
             "MD5": "2ff18975f2b4d0570f8eeeae85b66e42"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 177843,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/BetterQuestPopup-1.20.1(forge)-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/BetterQuestPopup-1.20.1(forge)-1.0.1.jar",
             "MD5": "9444aa52f2869b429402c8d06e1cffea"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22381010,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
             "MD5": "1b20a91a2b013ccad6cd56279a459b12"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14953384,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/bloodmagic-1.20.1-3.3.5-47.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/bloodmagic-1.20.1-3.3.5-47.jar",
             "MD5": "2ea93121fc479407e28952b1c04334c2"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 502662,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Bountiful-6.0.4+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Bountiful-6.0.4+1.20.1-forge.jar",
             "MD5": "14437740bee567400d0bafbf028434b6"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40125,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
             "MD5": "e37854c44b1849b753afc4a205f31b46"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 439457,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 269811,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/chat_heads-0.13.18-forge-1.20.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/chat_heads-0.13.18-forge-1.20.jar",
             "MD5": "0ad4f0d6fce38b3fb9f9b037c701ed99"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 381473,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/chatanimation-forge-1.20.1-1.1.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/chatanimation-forge-1.20.1-1.1.3.jar",
             "MD5": "4d20168e4327b7e6357eb108030a0baf"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8265809,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/chisel-forge-2.0.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/chisel-forge-2.0.0+mc1.20.1.jar",
             "MD5": "468657845ffc4f5eed8e1d3ad22933af"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 341451,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Chunky-1.3.146.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Chunky-1.3.146.jar",
             "MD5": "ed46120ac4f30ec8e03f6416e295577c"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3185379,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
             "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20299,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
           }
         },
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 665169,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/collective-1.20.1-8.13.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/collective-1.20.1-8.13.jar",
             "MD5": "abe112af460bf8befe26605a5e4c4248"
           }
         },
@@ -688,7 +688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 382083,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/comforts-forge-6.4.0+1.20.1.jar",
             "MD5": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
           }
         },
@@ -698,7 +698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 871676,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
             "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
           }
         },
@@ -708,7 +708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
             "MD5": "952274bc9994bba9733e8747558f73fa"
           }
         },
@@ -718,7 +718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 64187,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
             "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
           }
         },
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18463134,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/create-1.20.1-6.0.4.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/create-1.20.1-6.0.4.jar",
             "MD5": "9d274d57a664ae35e6efbef8595bcc29"
           }
         },
@@ -738,7 +738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 484781,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/create-structures-0.1.1-1.20.1-FORGE.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/create-structures-0.1.1-1.20.1-FORGE.jar",
             "MD5": "0cb30674cab22e70fd710c9ac16e2e99"
           }
         },
@@ -748,7 +748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1547196,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/createaddition-1.20.1-1.3.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/createaddition-1.20.1-1.3.1.jar",
             "MD5": "0abfc0f6db9558cba6eaee44266a4447"
           }
         },
@@ -758,7 +758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1143788,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
             "MD5": "a58f958ab8b789af3c6b3a9d93ca415d"
           }
         },
@@ -768,7 +768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 133781,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/cryonicconfig-forge-1.0.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/cryonicconfig-forge-1.0.0+mc1.20.1.jar",
             "MD5": "60ab26361727a2712bb9f5ffd72226c2"
           }
         },
@@ -778,7 +778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
@@ -788,7 +788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 577706,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Darkside_Of_Anur(1.2.2%20BugFix).jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Darkside_Of_Anur(1.2.2%20BugFix).jar",
             "MD5": "0fe0108d53d2d2063e39407335d43cdf"
           }
         },
@@ -798,7 +798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32625,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/dynamic-torches-5.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/dynamic-torches-5.3.jar",
             "MD5": "c37babdd596009674c251d279c52ebb0"
           }
         },
@@ -808,7 +808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3754640,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTrees-1.20.1-1.4.10.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTrees-1.20.1-1.4.10.jar",
             "MD5": "5894dcd9b389c1c0252ceb006e97ab52"
           }
         },
@@ -818,7 +818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 413434,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesBOP-1.20.1-3.3.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesBOP-1.20.1-3.3.3.jar",
             "MD5": "611a6a48e0bea10c420526b20f9af653"
           }
         },
@@ -828,7 +828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 534713,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesPlus-1.20.1-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesPlus-1.20.1-1.2.2.jar",
             "MD5": "cbf483b0f1c2b9faafd95ff9f3e47233"
           }
         },
@@ -838,7 +838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 464224,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesQuark-1.20.1-2.5.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesQuark-1.20.1-2.5.3.jar",
             "MD5": "21cd4a4afa8d5d791d46ae946046aa66"
           }
         },
@@ -848,7 +848,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32507,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/easy_npc_bundle-forge-1.20.1-6.6.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/easy_npc_bundle-forge-1.20.1-6.6.2.jar",
             "MD5": "f4fc34fe1105aec86eba47178c4b61b8"
           }
         },
@@ -858,7 +858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 694233,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/easy_npc_config_ui-forge-1.20.1-6.6.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/easy_npc_config_ui-forge-1.20.1-6.6.2.jar",
             "MD5": "239769ce591b37bb290b21a1d050995b"
           }
         },
@@ -868,7 +868,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1638934,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/easy_npc-forge-1.20.1-6.6.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/easy_npc-forge-1.20.1-6.6.2.jar",
             "MD5": "8a5f2eecaa93d883af5a0e4fa97139f4"
           }
         },
@@ -878,7 +878,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 187868,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/elevatorid-1.20.1-1.9.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/elevatorid-1.20.1-1.9.1-forge.jar",
             "MD5": "b4784b8ae695f179d0aefaaa82018968"
           }
         },
@@ -888,7 +888,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 100660,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
             "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
           }
         },
@@ -898,7 +898,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -908,7 +908,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 680255,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
             "MD5": "636c62379cd7c5201a70fd457808e331"
           }
         },
@@ -918,7 +918,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2363566,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/entityjs-0.6.6-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/entityjs-0.6.6-1.20.1.jar",
             "MD5": "ca0dd47407d7d76d7183286356c43378"
           }
         },
@@ -928,7 +928,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1360685,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
             "MD5": "5e0d88ba6f4cfe04c6d8158f91b038db"
           }
         },
@@ -938,7 +938,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7793098,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ExtraLib-2.1.4-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ExtraLib-2.1.4-1.20.1-Forge.jar",
             "MD5": "5a73a45c0a1e6ecd61508598c9fa985c"
           }
         },
@@ -948,7 +948,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 49958,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ExtraQuests-1.6.1-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ExtraQuests-1.6.1-1.20.1-Forge.jar",
             "MD5": "c9a98087c661bf939178b08c06360b38"
           }
         },
@@ -958,7 +958,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2978080,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
             "MD5": "71e177a98e0e6f399761ad00e978d177"
           }
         },
@@ -968,7 +968,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -978,7 +978,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 894694,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/flan-1.20.1-1.11.15-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/flan-1.20.1-1.11.15-forge.jar",
             "MD5": "a52e4eac4c1c55573d602ec1920a1e60"
           }
         },
@@ -988,7 +988,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69739,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/forgivingvoid-forge-1.20.1-10.0.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/forgivingvoid-forge-1.20.1-10.0.3.jar",
             "MD5": "401a8ccfcdda898c177b7e58918848bf"
           }
         },
@@ -998,7 +998,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1158842,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.6.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.6.jar",
             "MD5": "64af750c0cbcadd4b27fb58236654814"
           }
         },
@@ -1008,7 +1008,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 780523,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-library-forge-2001.2.12.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-library-forge-2001.2.12.jar",
             "MD5": "8bbd067159587d80f1c5286ea52e567b"
           }
         },
@@ -1018,7 +1018,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1227820,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-quests-forge-2001.4.17.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-quests-forge-2001.4.17.jar",
             "MD5": "35f79e8e8b0849d6038cd4cd9c86b08a"
           }
         },
@@ -1028,7 +1028,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 248592,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
             "MD5": "98efb58ba7cecfb39034544eced0389f"
           }
         },
@@ -1038,7 +1038,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1954591,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftbbackups2-forge-1.20-1.0.23.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftbbackups2-forge-1.20-1.0.23.jar",
             "MD5": "d03cc8191ad47156c977d53468421559"
           }
         },
@@ -1048,7 +1048,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 163803,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftbquestsfreezefix-forge-1.0.0-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ftbquestsfreezefix-forge-1.0.0-1.20.1.jar",
             "MD5": "b099b839fe37c312e99800dff56988ec"
           }
         },
@@ -1058,7 +1058,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14007,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/FTBQuestsOptimizer-forge-2.0.5-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/FTBQuestsOptimizer-forge-2.0.5-1.20.1.jar",
             "MD5": "f6decadcb493728713782fe4d95bed8f"
           }
         },
@@ -1068,7 +1068,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540383,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
             "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
           }
         },
@@ -1078,7 +1078,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2374667,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/fzzy_config-0.7.6+1.20.1+forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/fzzy_config-0.7.6+1.20.1+forge.jar",
             "MD5": "f48f8112f6e2d161c655b750f6bfd0c8"
           }
         },
@@ -1088,7 +1088,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1038979,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
             "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
           }
         },
@@ -1098,7 +1098,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 87551,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/GlitchCore-forge-1.20.1-0.0.1.1.jar",
             "MD5": "87d2b7104f4069d44741f58ebe1bb2bd"
           }
         },
@@ -1108,7 +1108,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21854126,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
           }
         },
@@ -1118,7 +1118,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 426980,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
             "MD5": "1e5278b2585bab1db76d4b1ab61e82c1"
           }
         },
@@ -1128,7 +1128,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2428368,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/immersive_aircraft-1.4.0+1.20.1-forge.jar",
             "MD5": "f49ff767f611a95f9bd29a0e9977d9d5"
           }
         },
@@ -1138,7 +1138,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 552486,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.2.jar",
             "MD5": "7c349670f77fd64b9e9854c4a8d82fcc"
           }
         },
@@ -1148,7 +1148,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91771,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.5.0.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.5.0.jar",
             "MD5": "3e2fa5d8b2ec994ba416ec4f84d5ea60"
           }
         },
@@ -1158,7 +1158,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190604,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/jamlib-forge-1.3.5+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/jamlib-forge-1.3.5+1.20.1.jar",
             "MD5": "3c6182035a5615c6c0dc16c848f7f1ec"
           }
         },
@@ -1168,7 +1168,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1409642,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.129.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.129.jar",
             "MD5": "a5192227a15e0fe0e367828b32c1f472"
           }
         },
@@ -1178,7 +1178,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
@@ -1188,7 +1188,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 325546,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Kambrik-6.1.1+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Kambrik-6.1.1+1.20.1-forge.jar",
             "MD5": "5cb26d3e599145ca834e736f64dcd363"
           }
         },
@@ -1198,7 +1198,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7442998,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
             "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
           }
         },
@@ -1208,7 +1208,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1654660,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
             "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
           }
         },
@@ -1218,7 +1218,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 693301,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
             "MD5": "ef3a86f4867dba031dd6adef7e45d396"
           }
         },
@@ -1228,7 +1228,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 463485,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.94.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.94.jar",
             "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7"
           }
         },
@@ -1238,7 +1238,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 90965,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/MagnumTorch-v8.0.2-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/MagnumTorch-v8.0.2-1.20.1-Forge.jar",
             "MD5": "77290be343a87db8b81b16ea95eb8e05"
           }
         },
@@ -1248,7 +1248,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12784013,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/minecraft-comes-alive-7.6.5+1.20.1-universal.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/minecraft-comes-alive-7.6.5+1.20.1-universal.jar",
             "MD5": "a3256cadcbb2eb13a06ef9fdb66b5477"
           }
         },
@@ -1258,7 +1258,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 895444,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/modernfix-forge-5.25.2+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/modernfix-forge-5.25.2+mc1.20.1.jar",
             "MD5": "893b2aba13f35bd7ed3fdad2ca15a4d4"
           }
         },
@@ -1268,7 +1268,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2239688,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/modonomicon-1.20.1-forge-1.79.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/modonomicon-1.20.1-forge-1.79.3.jar",
             "MD5": "2ee00a17f4044ea8ad26216f9e9393c2"
           }
         },
@@ -1278,7 +1278,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1389715,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/moonlight-1.20-2.16.22-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/moonlight-1.20-2.16.22-forge.jar",
             "MD5": "10dce0da9c4e9d29ce8c9705af4e62b5"
           }
         },
@@ -1288,7 +1288,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35239406,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/mowziesmobs-1.7.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/mowziesmobs-1.7.3.jar",
             "MD5": "ae03fbc5568adbf84e49806af92844cd"
           }
         },
@@ -1298,7 +1298,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1933839,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/notenoughanimations-forge-1.11.1-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/notenoughanimations-forge-1.11.1-mc1.20.1.jar",
             "MD5": "34fd79756da8b5278a5b0905d98ffeca"
           }
         },
@@ -1308,7 +1308,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 134885,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/notenoughcrashes-4.4.9+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/notenoughcrashes-4.4.9+1.20.1-forge.jar",
             "MD5": "59f7bd924454a832b87998999d58eea7"
           }
         },
@@ -1318,7 +1318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3958754,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/occultism-1.20.1-1.157.0.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/occultism-1.20.1-1.157.0.jar",
             "MD5": "ba2364b3ff00bcd4d2276c5cd28d0d3a"
           }
         },
@@ -1328,7 +1328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 90353,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/oceansdelight-1.0.2-1.20.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/oceansdelight-1.0.2-1.20.jar",
             "MD5": "eaa8c0ba3771042829fd5396ad8b5e06"
           }
         },
@@ -1338,7 +1338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 424035,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
           }
         },
@@ -1348,7 +1348,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -1358,7 +1358,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58548,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/opf-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/opf-1.20.1.jar",
             "MD5": "12e797343536a86ee49b232d2117f8b0"
           }
         },
@@ -1368,7 +1368,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2605208,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/palladium-4.4.2+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/palladium-4.4.2+1.20.1-forge.jar",
             "MD5": "358d0c54386cfa916cd31380eaeb836d"
           }
         },
@@ -1378,7 +1378,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642711,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
             "MD5": "d5154cacf6859582eebd853bd59f5537"
           }
         },
@@ -1388,7 +1388,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 671605,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
             "MD5": "95bdd5558d34044f54aab0ce292e679b"
           }
         },
@@ -1398,7 +1398,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
           }
         },
@@ -1408,7 +1408,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1343694,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/polylib-forge-2000.0.3-build.143.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/polylib-forge-2000.0.3-build.143.jar",
             "MD5": "ffb6c10b010e7e4fd5eba9f864182593"
           }
         },
@@ -1418,7 +1418,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1342204,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/PuzzlesLib-v8.1.32-1.20.1-Forge.jar",
             "MD5": "3ca3da58d71c0b14241df38578ffdb22"
           }
         },
@@ -1428,7 +1428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14935230,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Quark-4.0-462.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Quark-4.0-462.jar",
             "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
           }
         },
@@ -1438,7 +1438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1520280,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/relics-1.20.1-0.8.0.9.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/relics-1.20.1-0.8.0.9.jar",
             "MD5": "18be53515d2feaa08da2196ef6c8b321"
           }
         },
@@ -1448,7 +1448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1798244,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "59387620b0ef6becbff02c7c1636ad3e"
           }
         },
@@ -1458,7 +1458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 288142,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
             "MD5": "2531423ad9a4511da59035912dd73963"
           }
         },
@@ -1468,7 +1468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 568608,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
             "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
           }
         },
@@ -1478,7 +1478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2267792,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/samurai_dynasty-0.0.51-1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/samurai_dynasty-0.0.51-1.20.1-forge.jar",
             "MD5": "5f64fcb5fddd894ff3f467ac2b811a0b"
           }
         },
@@ -1488,7 +1488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77732,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
             "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
           }
         },
@@ -1498,7 +1498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4648724,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/SecurityCraft_v1.10.0.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/SecurityCraft_v1.10.0.1.jar",
             "MD5": "9ef0bc4940bf472feff9592f528782ea"
           }
         },
@@ -1508,7 +1508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1498355,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/silent_hill_mod-2.0.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/silent_hill_mod-2.0.jar",
             "MD5": "d3e7abe4f44e5054d6f2836d056bf1f9"
           }
         },
@@ -1518,7 +1518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 135614,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/simpleshops-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/simpleshops-1.2.2.jar",
             "MD5": "2620b7e35ea1398f2e31e3a6ebf0555f"
           }
         },
@@ -1528,7 +1528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 213585,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/skinrestorer-2.5.0+1.20-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/skinrestorer-2.5.0+1.20-forge.jar",
             "MD5": "425756c7e40c08ec7a58c8b39e513d70"
           }
         },
@@ -1538,7 +1538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 362339,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
             "MD5": "66b1b63bc195eeeb51de8d3e8b12ab21"
           }
         },
@@ -1548,7 +1548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 983302,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.24.20.1500.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.24.20.1500.jar",
             "MD5": "5254c618efeb3f8776cdaf103774de75"
           }
         },
@@ -1558,7 +1558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1407708,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.119.1369.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.119.1369.jar",
             "MD5": "32312142e7d407a90fb65d0141acd844"
           }
         },
@@ -1568,7 +1568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 691949,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/spellbound-weapons-v4.0.5m.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/spellbound-weapons-v4.0.5m.jar",
             "MD5": "3411bb799097b9476834e98719a53b52"
           }
         },
@@ -1578,7 +1578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 622996,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/storagedelight-25.12.09-1.20-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/storagedelight-25.12.09-1.20-forge.jar",
             "MD5": "bd3a34d20c02a40c18cc6529df41b32f"
           }
         },
@@ -1588,7 +1588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 966028,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/structure_gel-1.20.1-2.16.2.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/structure_gel-1.20.1-2.16.2.jar",
             "MD5": "a4e07a1d6ff69901f70b014683f04498"
           }
         },
@@ -1598,7 +1598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206584,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
             "MD5": "cbece61946d4e059e90806c19dd66082"
           }
         },
@@ -1608,7 +1608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 515362,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
           }
         },
@@ -1618,7 +1618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13661432,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/supplementaries-1.20-3.1.42-forge.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/supplementaries-1.20-3.1.42-forge.jar",
             "MD5": "842a30b8172f55adefc4eb8435dc40ee"
           }
         },
@@ -1628,7 +1628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115132,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/tarotcards-1.20-1.7.0.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/tarotcards-1.20-1.7.0.jar",
             "MD5": "5f36c6851be1133a132a05e9cddca2c3"
           }
         },
@@ -1638,7 +1638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 805156,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/TCTcore-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/TCTcore-1.20.1.jar",
             "MD5": "c3d398ee78069451b98c8909efe52697"
           }
         },
@@ -1648,7 +1648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107533,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
             "MD5": "1f88ad1b2e0d196f0caf7c03a4abf893"
           }
         },
@@ -1658,7 +1658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 506353,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ToadLib-1.3.5-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ToadLib-1.3.5-1.20.1.jar",
             "MD5": "534513edee18af411960384e91752fed"
           }
         },
@@ -1668,7 +1668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2335020,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/tombstone-1.20.1-9.0.9.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/tombstone-1.20.1-9.0.9.jar",
             "MD5": "19b3d2decf61a4fc893fd2e4a93c2261"
           }
         },
@@ -1678,7 +1678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 352763,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/tomeofblood-1.20.1-0.4.4-all.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/tomeofblood-1.20.1-0.4.4-all.jar",
             "MD5": "5d2190bebfb7e5dc04a7f78f0eb65efe"
           }
         },
@@ -1688,7 +1688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 82743,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/treeharvester-1.20.1-9.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/treeharvester-1.20.1-9.1.jar",
             "MD5": "f73fb72e3b561e6823d971436719eaf1"
           }
         },
@@ -1698,7 +1698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14703606,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ultris-v5.6.9c.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/ultris-v5.6.9c.jar",
             "MD5": "bdadd684e7c3bcd28bfdb8bb79536fc5"
           }
         },
@@ -1708,7 +1708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 250266,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/VampiresNeedUmbrellas-1.20.1-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/VampiresNeedUmbrellas-1.20.1-1.0.1.jar",
             "MD5": "34e6105741a2a521c5dc9caaf0b34130"
           }
         },
@@ -1718,7 +1718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299070,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/vampirism_integrations-1.20.1-1.8.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/vampirism_integrations-1.20.1-1.8.1.jar",
             "MD5": "a37db32cd9b0ee5232b7f33fd54c1f1d"
           }
         },
@@ -1728,7 +1728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12307445,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Vampirism-1.20.1-1.10.13.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Vampirism-1.20.1-1.10.13.jar",
             "MD5": "7e71a6723a8db45292e714172cec0eb7"
           }
         },
@@ -1738,7 +1738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 74019,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.20.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.20.jar",
             "MD5": "1f6c3cc5328b51b8b9f21945a6a01cc2"
           }
         },
@@ -1748,7 +1748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7750347,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.30.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.30.jar",
             "MD5": "cd564c6197dcd1d19af73f23f81c388c"
           }
         },
@@ -1758,7 +1758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 435496,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
             "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
           }
         },
@@ -1768,7 +1768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2306751,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Werewolves-1.20.1-2.0.2.7.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Werewolves-1.20.1-2.0.2.7.jar",
             "MD5": "c9013ea67b5c01b3030a8553d611f215"
           }
         },
@@ -1778,7 +1778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
@@ -1788,7 +1788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 370524,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
             "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
           }
         },
@@ -1798,7 +1798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 792381,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
             "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
           }
         },
@@ -1808,7 +1808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 492998,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
             "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
           }
         },
@@ -1818,7 +1818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 619255,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
             "MD5": "8f0011690923efb6e2d59514181f0bc9"
           }
         },
@@ -1828,7 +1828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1033262,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
             "MD5": "467336218d681221ef8d875b226eb1bc"
           }
         },
@@ -1838,7 +1838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 136236,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBridges-1.20-Forge-4.0.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsBridges-1.20-Forge-4.0.3.jar",
             "MD5": "9c39322cd0e271980b4449bc42fc17ac"
           }
         },
@@ -1848,7 +1848,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 200341,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsExtras-1.20-Forge-4.0.3.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/YungsExtras-1.20-Forge-4.0.3.jar",
             "MD5": "6a592ed7502e13d840fa25587325202d"
           }
         },
@@ -1858,7 +1858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1006518,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja//Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Zeta-1.0-31.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Launcher_Minecraft_Nebula/main/servers/MiServer-1.20.1/forgemods/required/Zeta-1.0-31.jar",
             "MD5": "98b72e20dacbdb4da4bd187f56ed4012"
           }
         }
